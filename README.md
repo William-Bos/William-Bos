@@ -1,9 +1,18 @@
-<h1 align="center">👋 Olá, eu sou o William!</h1>
+<h1>
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Capriola&pause=300&color=F0F6FC&center=false&vCenter=false&width=900&lines=👋+Ol%C3%A1,+eu+sou+o+William!" 
+      alt="Typing SVG" 
+    />
+  </a>
+</h1>
 
-<p align="center">
+
+
+
+<h3>
   💻 Desenvolvedor Full Stack que gosta de criar soluções web práticas e modernas.<br>
-  🚀 Apaixonado por programação, inovação e tudo que a tecnologia pode fazer de bom.
-</p>
+</h3>
 
 ---
 
@@ -15,9 +24,11 @@ Olá, meu nome é **William da Silva Bós** e estou cursando o **4º semestre de
 
 🎲 Paralelamente, desenvolvo um **site de RPG** voltado para mestres e players, onde mestres podem criar campanhas, personagens e habilidades, enquanto players constroem seus personagens, definem status e personalizam habilidades, promovendo uma experiência completa e interativa.
 
-💼 Também atuo como **jovem aprendiz em suporte técnico** na Faculdade Moinhos de Vento, em Porto Alegre, ampliando meus conhecimentos práticos e contato com demandas reais da área de TI.
+💼 Também atuo como **jovem aprendiz em infraestrutura** na Faculdade Moinhos de Vento, em Porto Alegre, ampliando meus conhecimentos práticos e contato com demandas reais da área de TI.
 
-🌱 Estou focado em aprofundar meus conhecimentos em **desenvolvimento backend**, buscando consolidar minha expertise e identificar minha área de maior interesse e especialização dentro da tecnologia.
+🌱 Atualmente, estou focado em aprofundar meus conhecimentos em desenvolvimento backend, buscando consolidar minha expertise e descobrir minha área de maior interesse e especialização dentro da tecnologia. Paralelamente, estudo robótica, estruturas de dados e desenvolvimento de sistemas mobile com Dart, ampliando meu leque de habilidades e explorando novas possibilidades.
+
+
 
 ---
 
@@ -38,20 +49,35 @@ Olá, meu nome é **William da Silva Bós** e estou cursando o **4º semestre de
 - Gerenciador de turnos, combate, experiência e evolução de personagens  
 - Painel do Mestre com controle total da sessão, incluindo visão oculta do mapa e NPCs
 
-### 🛢️ Sistema de Gestão para Postos de Combustíveis  
-Plataforma completa para gestão de empresas, colaboradores, preços de combustíveis e localização via mapa interativo:  
-- Controle de múltiplos postos e perfis de acesso  
-- Gestão de planos e limites mensais  
-- API RESTful com integração frontend dinâmica  
-- Módulo de geolocalização com mapa e visualização de postos em tempo real  
+<h3 style="display: flex; align-items: center; gap: 10px;">
 
-[![Acesse o sistema](https://img.shields.io/badge/Acessar-Combustfy.com.br-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://combustfy.com.br)
+
+
+  <a href="https://combustfy.com.br" target="_blank" rel="noopener noreferrer" 
+     style="display: inline-flex; align-items: center; gap: 6px; margin-left: auto; text-decoration: none; color: #007bff; font-weight: 600; font-size: 0.9em;">
+    <img src="https://media.discordapp.net/attachments/1083467239338021016/1403221447165607996/2.png?ex=6896c34f&is=689571cf&hm=62f05d963f99ecef886daf15e06b7ba2d5f25bbb24a3579a8a58051f1d5ff517&=&format=webp&quality=lossless" width="20" alt="Ícone" />
+    <span>Sistema de Gestão para Postos de Combustíveis - Combustfy</span>
+  </a>
+  
+</h3>
+
+<p>
+Plataforma completa para gestão de empresas, colaboradores, preços de combustíveis e localização via mapa interativo:
+</p>
+<ul>
+  <li>Controle de múltiplos postos e perfis de acesso</li>
+  <li>Gestão de planos e limites mensais</li>
+  <li>API RESTful com integração frontend dinâmica</li>
+  <li>Módulo de geolocalização com mapa e visualização de postos em tempo real</li>
+</ul>
+
+
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Status
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=William-Bos&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Bos&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>
 </p>
@@ -60,7 +86,7 @@ Plataforma completa para gestão de empresas, colaboradores, preços de combust�
 
 ## 📫 Contato
 
-<p align="center">
+<p>
   <a href="mailto:boswilliam56@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
