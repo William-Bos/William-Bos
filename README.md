@@ -18,7 +18,7 @@
 
 ## 🧠 Sobre mim
 
-Olá, meu nome é **William da Silva Bós** e estou cursando o **4º semestre de Ciências da Computação**.
+Olá, meu nome é **William da Silva Bós** e estou cursando o **5º semestre de Ciências da Computação**.
 
 👨‍💻 Atualmente lidero o desenvolvimento de um sistema completo para **gestão de postos de combustíveis**, utilizando **PHP, MySQL, HTML e CSS**. Para organizar a equipe e os processos, utilizo a ferramenta **ClickUp**, garantindo eficiência e colaboração.
 
